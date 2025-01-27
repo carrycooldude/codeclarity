@@ -1,0 +1,4 @@
+Flask==2.3.2
+google-cloud-aiplatform
+transformers==4.30.0
+torch==2.0.1
