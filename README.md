@@ -6,8 +6,6 @@
 ## Features
 - 🧠 **Automated Documentation**: Generate detailed docs for any codebase.
 - 📝 **Code Summarization**: Get concise summaries of complex logic.
-- 🎙️ **Speech Output**: Convert text to speech for accessibility.
-- ❓ **Real-Time Q&A**: Ask questions about your codebase.
 
 ---
 
