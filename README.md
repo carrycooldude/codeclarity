@@ -12,7 +12,7 @@
 ## Tech Stack
 - **Backend**: FastAPI (Python)
 - **Frontend**: React (JavaScript)
-- **AI Models**: Vertex AI (Text-Bison, BART)
+- **AI Models**: Vertex AI ( BART)
 - **Deployment**: Google Cloud Platform (GCP)
 
 ---
